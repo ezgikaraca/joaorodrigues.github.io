@@ -1,4 +1,6 @@
 ---
 layout: pub-index
-title: Our Publications
+comments: false
+image:
+  feature: banner_publications-mini.jpg
 ---

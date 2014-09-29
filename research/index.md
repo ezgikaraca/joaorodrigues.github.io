@@ -4,10 +4,18 @@ tags: [Jekyll, HADDOCK, Bonvin, Docking, Simulation, Molecular Dynamics, Structu
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: banner_research.jpg
+  feature: banner_research-mini.jpg
 ---
 
-We develop computational methods to simulate and model biological molecules, and apply them to solve open problems in biochemistry and biomedicine.
+Research within the computational structural biology group focuses on the development of reliable bioinformatics and computational 
+approaches to predict, model and dissect biomolecular interactions at atomic level. For this, bioinformatics data, structural 
+information and available biochemical or biophysical experimental data are combined to drive the modelling process. 
+This is implemented and further developed in the widely used 
+[HADDOCK software for the modelling of biomolecular complexes](http://haddock.science.uu.nl).
+By following a holistic approach integrating various experimental information sources with computational structural biology methods 
+we aim at obtaining a comprehensive description of the structural and dynamic landscape of complex biomolecular machines, adding 
+the structural dimension to interaction networks and opening the route to systematic and genome-wide studies of biomolecular 
+interactions.
 
 ### HADDOCK
 
