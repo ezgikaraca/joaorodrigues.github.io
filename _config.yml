@@ -26,7 +26,6 @@ kramdown:
 
 # Site owner
 owner:
-  name: Alexandre Bonvin
   avatar: bio-haddock.png
   bio: "Computational Structural Biology group focusing on protein-protein docking and molecular simulation."
   email: a.m.j.j.bonvin@uu.nl
