@@ -25,7 +25,7 @@ is also available. HADDOCK is well-known for its ability to integrate data in th
 
 * *Nuclear Magnetic Resonance*: H/D Exchange, CSPs, RDCs (SANI, VEAN), PCSs, NOEs, Relaxation data (DANI)
 * *Mutagenesis*
-* *Ion-Mobility Mass Spectrometry*
+* *Mass Spectromety*: H/D Exchange, Cross-linking, Ion-Mobility Mass Spectrometry (as a shape parameter to be used in scoring)
 * *Small Angle X-ray Scattering*: Rg restraints and scoring via simulated SAXS curves
 * *Bioinformatics predictions*: evolutionary conservation and co-evolving amino acids
 
