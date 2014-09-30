@@ -23,15 +23,16 @@ interactions.
 Developed since 2003 in our lab, it has been cited ca. 1000 times. A [user-friendly web server](http://haddock.science.uu.nl/services/HADDOCK/haddock.php)
 is also available. HADDOCK is well-known for its ability to integrate data in the modelling calculations, such as:
 
-* *Nuclear Magnetic Resonance*: H/D Exchange, CSPs, RDCs (SANI, VEAN), PCSs, NOEs, Relaxation data (DANI)
+* *Nuclear Magnetic Resonance*: H/D Exchange, CSPs, RDCs (SANI, VEAN), PREs, PCSs, NOEs, Relaxation data (DANI)
 * *Mutagenesis*
-* *Mass Spectromety*: H/D Exchange, Cross-linking, Ion-Mobility Mass Spectrometry (as a shape parameter to be used in scoring)
-* *Small Angle X-ray Scattering*: Rg restraints and scoring via simulated SAXS curves
+* *Mass Spectromety*: H/D Exchange, Cross-linking, scoring beased on Ion Mobility-MS shape data 
+* *Small Angle X-ray Scattering*: Radius of Gyration, scoring based on experimental SAXS curves
 * *Bioinformatics predictions*: evolutionary conservation and co-evolving amino acids
 
 Other interesting features of HADDOCK include:
 
 * Ambiguous Interaction Restraints
+* Unambigous Distance Restraints
 * Flexibility of the backbone/sidechain atoms at the interface
 * (Simultaneous) Multibody Docking (up to 6 molecules)
 * Symmetry restraints (C2, C3, C4, C5, C6, D2, ...)
