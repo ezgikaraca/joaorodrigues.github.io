@@ -6,6 +6,12 @@ image:
 
 ## 2014
 <hr />
+<ol>
+<li>T.A. Hopf#, C.P.I. Sch&auml;rfe#, J.P.G.L.M. Rodrigues#, A.G. Green, O. Kohlbacher, C. Sander*, <font color="#333333"><b>A.M.J.J. Bonvin*</b></font> and D.S. Marks*.<BR>
+"<a href="http://elifesciences.org/content/early/2014/09/25/eLife.03430">Sequence co-evolution gives 3D contacts and structures of protein complexes.</a>"<BR>
+<EM>eLife.</EM> 10.7554/eLife.03430, Advanced Online Publication (2014)
+<p>
+</ol>
 
 * T.A. Hopf#, C.P.I. Schärfe#, J.P.G.L.M. Rodrigues#, A.G. Green, O. Kohlbacher, C. Sander\*, A.M.J.J. Bonvin* and D.S. Marks*.
 "Sequence co-evolution gives 3D contacts and structures of protein complexes."
